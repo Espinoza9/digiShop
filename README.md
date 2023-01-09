@@ -6,6 +6,9 @@ Website desenvolvido para aprendizado e fixação de tecnologia aprendidas no es
 ## :books: Funcionalidades
 O projeto tem como objetivo um website que permita a compra de box's surpresas com temáticas geek's de acordo com a assinaturas de planos.
 
+## 🖥 Protótipo - FIGMA
+<a href="https://www.figma.com/file/bnD4yUq4MZkck3l74e3mqb/Untitled?node-id=0%3A1&t=Rxqr7X5QauQlncsf-1">Protótipo</a>
+
 ## :wrench: Tecnologias utilizadas
 Para o desenvolvimento do projeto está sendo utilizado o stack VueJS + SpringBoot + MySQL;
 
