@@ -14,7 +14,7 @@
 	<name>digishop</name>
 	<description>serviço web para compras de box surpresas</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -31,6 +31,11 @@
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
 			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>1.6.10</version>
 		</dependency>
 		<dependency>
 			<groupId>com.mysql</groupId>
