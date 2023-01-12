@@ -8,6 +8,7 @@ public class DigishopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DigishopApplication.class, args);
+		
 	}
 
 }
